@@ -1,0 +1,9 @@
+{
+  "name": "invoice-ai-agent-memory",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "demo": "ts-node src/demo/demoRunner.ts"
+  }
+}
